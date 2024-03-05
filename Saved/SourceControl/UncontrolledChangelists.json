@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/louie/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/louie/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Content/ProjectContent/Maps/L_Default.umap",
+				"C:/Users/louie/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Content/ProjectContent/Blueprints/BP_Projectile.uasset",
+				"C:/Users/louie/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Content/ProjectContent/Maps/L_Main.umap",
+				"C:/Users/louie/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Users/louie/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel02.uasset",
+				"C:/Users/louie/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel03.uasset",
+				"C:/Users/louie/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Box01.uasset",
+				"C:/Users/louie/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Box02.uasset",
+				"C:/Users/louie/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Rack02.uasset",
+				"C:/Users/louie/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Content/ProjectContent/Blueprints/BP_Barrel.uasset",
+				"C:/Users/louie/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Content/ProjectContent/Blueprints/BP_Box1.uasset",
+				"C:/Users/louie/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Content/ProjectContent/Blueprints/BP_Box2.uasset",
+				"C:/Users/louie/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Content/ProjectContent/Blueprints/BP_Rack.uasset",
+				"C:/Users/louie/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Content/ProjectContent/Maps/Minimal_Default1.umap",
+				"C:/Users/louie/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Content/ProjectContent/Maps/Minimal_Default.umap"
+			]
+		}
+	]
+}
